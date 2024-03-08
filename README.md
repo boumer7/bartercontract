@@ -1,5 +1,9 @@
 # bartercontract
+![image](https://github.com/boumer7/bartercontract/assets/33152397/87511f08-ac30-4f56-9597-b4b3ca6bed14)
+
 Блокчейн платформа для бартерных обменов на смарт-контрактах (PHP, Solidity, Web 3.0, HTML, CSS, JS)
+
+Презентация - https://docs.google.com/presentation/d/1ybO2Dwp6QPsBFcX59qJEQ7xSX8YYdZwPznBmh1apXvw/edit?usp=sharing
 
 Работа была выполнена мною в 2019-2020 гг.
 
