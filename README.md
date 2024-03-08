@@ -3,7 +3,7 @@
 
 Блокчейн платформа для бартерных обменов на смарт-контрактах (PHP, Solidity, Web 3.0, HTML, CSS, JS)
 
-Презентация - https://docs.google.com/presentation/d/1ybO2Dwp6QPsBFcX59qJEQ7xSX8YYdZwPznBmh1apXvw/edit?usp=sharing
+Презентация - <a href="https://docs.google.com/presentation/d/1ybO2Dwp6QPsBFcX59qJEQ7xSX8YYdZwPznBmh1apXvw/edit?usp=sharing">Открыть в Google Презентациях</a>
 
 Работа была выполнена мною в 2019-2020 гг.
 
